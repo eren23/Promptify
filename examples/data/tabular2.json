@@ -1,0 +1,36 @@
+{
+    "samples": [
+        {
+            "Text": "Mehmet Ali, İstanbul, Beşiktaş, Yıldız Caddesi, No:12",
+            "Tabular Data": {
+                "isim": "Mehmet Ali",
+                "il": "İstanbul",
+                "ilçe": "Beşiktaş",
+                "sokak": "Yıldız Caddesi",
+                "no": 12
+            }
+        },
+        {
+            "Text": "Ayşe Hanım, İzmir, Konak, Cumalıkızık Mahallesi, Cumalıkızık Caddesi, No:54",
+            "Tabular Data": {
+                "isim": "Ayşe Hanım",
+                "il": "İzmir",
+                "ilçe": "Konak",
+                "mahalle": "Cumalıkızık Mahallesi",
+                "sokak": "Cumalıkızık Caddesi",
+                "no": 54
+            }
+        },
+        {
+            "Text": "Emre Bey, Ankara, Çankaya, Kızılay, Söğütözü Caddesi, No:67",
+            "Tabular Data": {
+                "isim": "Emre Bey",
+                "il": "Ankara",
+                "ilçe": "Çankaya",
+                "bölge": "Kızılay",
+                "sokak": "Söğütözü Caddesi",
+                "no": 67
+            }
+        }
+    ]
+}

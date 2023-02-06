@@ -1,0 +1,33 @@
+{
+    "samples": [
+        {
+            "Text": "Deprem sırasında evimizde yer alan adresimiz: İstanbul, Beşiktaş, Yıldız Mahallesi, Cumhuriyet Caddesi No: 35",
+            "Tabular Data": {
+                "il": "İstanbul",
+                "ilçe": "Beşiktaş",
+                "mahalle": "Yıldız Mahallesi",
+                "sokak": "Cumhuriyet Caddesi",
+                "no": 35
+            }
+        },
+        {
+            "Text": "Deprem anında bulunduğumuz adres: Ankara, Kızılay, Mustafa Kemal Paşa Caddesi No: 12/2",
+            "Tabular Data": {
+                "il": "Ankara",
+                "ilçe": "Kızılay",
+                "sokak": "Mustafa Kemal Paşa Caddesi",
+                "no": "12/2"
+            }
+        },
+        {
+            "Text": "Acil yardıma ihtiyacımız var! Deprem anında bulunduğumuz adres: İzmir, Konak, Alsancak, Cumhuriyet Caddesi No: 45",
+            "Tabular Data": {
+                "il": "İzmir",
+                "ilçe": "Konak",
+                "semt": "Alsancak",
+                "sokak": "Cumhuriyet Caddesi",
+                "no": 45
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "samples": [
+        {
+            "Text": "Merve Özkan, İstanbul'un merkezinde, Şişli'de yer alan Levent semtinde, Büyükdere Caddesi üzerinde bulunan modern bir apartman dairesinde yaşamaktadır. No: 56",
+            "Tabular Data": {
+                "isim": "Merve Özkan",
+                "il": "İstanbul",
+                "ilçe": "Şişli",
+                "semt": "Levent",
+                "sokak": "Büyükdere Caddesi",
+                "tip": "modern apartman dairesi",
+                "no": 56
+            }
+        },
+        {
+            "Text": "Halil İbrahim, Bursa'nın güzel ilçesi Nilüfer'de bulunan Kıvanç Mahallesi'nde, Atatürk Caddesi üzerinde bir villada oturmaktadır. No: 35",
+            "Tabular Data": {
+                "isim": "Halil İbrahim",
+                "il": "Bursa",
+                "ilçe": "Nilüfer",
+                "mahalle": "Kıvanç Mahallesi",
+                "sokak": "Atatürk Caddesi",
+                "tip": "villa",
+                "no": 35
+            }
+        },
+        {
+            "Text": "Ege Kaya, İzmir'in popüler semti Alsancak'ta bulunan Cumhuriyet Caddesi üzerinde, bir apartman dairesinde yaşamaktadır. No: 12/4",
+            "Tabular Data": {
+                "isim": "Ege Kaya",
+                "il": "İzmir",
+                "semt": "Alsancak",
+                "sokak": "Cumhuriyet Caddesi",
+                "tip": "apartman dairesi",
+                "no": "12/4"
+            }
+        }
+    ]
+}
